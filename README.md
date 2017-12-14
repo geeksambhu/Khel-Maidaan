@@ -5,7 +5,7 @@
 
 I take my whole life as an `apprenticeship` . A `codeblooded` organism here to play with codes and errors. :D 
 
-आउ खेलौसँसँगै
+आउ खेलौ सँगैसँगै
 
 ### I played templates
  

@@ -6,5 +6,9 @@ Keep going
    Today I learnt: About decorator in `python`. **Played code in `about_decorator.py` file** 
    In decorator `function` can be used as a parameter and can be returned back too
 ```
-
+```
+   Day: 2
+   Date: 2017-Dec-16
+   Today I learnt: Developing my first TDD based app. Working on project architecture for now. 
+```
 

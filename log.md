@@ -10,5 +10,12 @@ Keep going
    Day: 2
    Date: 2017-Dec-16
    Today I learnt: Developing my first TDD based app. Working on project architecture for now. 
+   wrote the primitive test 
+   Link:https://github.com/geeksambhu/tweet-insta
+```
+```
+   Day: 3
+   Date: 2017-Dec-17
+   Today I learnt: Working on `tweet-insta` app. Writing test cases and playing and trying them to go green
 ```
 

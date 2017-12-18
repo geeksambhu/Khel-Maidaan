@@ -18,4 +18,8 @@ Keep going
    Date: 2017-Dec-17
    Today I learnt: Working on `tweet-insta` app. Writing test cases and playing and trying them to go green
 ```
-
+```
+   Day: 4
+   Date: 2017-Dec-18
+   Today I learnt: Working on `tweet-insta` app. Finding python library for twitter API  and learning to use it.
+```

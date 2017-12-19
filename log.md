@@ -23,3 +23,8 @@ Keep going
    Date: 2017-Dec-18
    Today I learnt: Working on `tweet-insta` app. Finding python library for twitter API  and learning to use it.
 ```
+```
+   Day: 5
+   Date: 2017-Dec-19
+   Today I learnt: Working on `tweet-insta` app. Worked on listing tweets from the tweepy library
+```

@@ -28,3 +28,9 @@ Keep going
    Date: 2017-Dec-19
    Today I learnt: Working on `tweet-insta` app. Worked on listing tweets from the tweepy library
 ```
+
+```
+   Day: 6
+   Date: 2017-Dec-20
+   Today I learnt: Working on `tweet-insta` app. Tweet listed on webpage
+```

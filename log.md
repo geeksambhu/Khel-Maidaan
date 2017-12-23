@@ -53,3 +53,10 @@ Day: 8
    Date: 2017-Dec-22
    Today I learnt: Played with instagram api using instagram module of python for `tweet-insta` app(WIP: Work in progress)
 ```
+
+Day: 9
+
+```
+   Date: 2017-Dec-23
+   Today I learnt: learning to debug with logger module in python : `about_logger.py`
+```

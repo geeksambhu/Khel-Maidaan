@@ -60,3 +60,13 @@ Day: 9
    Date: 2017-Dec-23
    Today I learnt: learning to debug with logger module in python : `about_logger.py`
 ```
+
+Day: 10
+
+```
+   Date: 2017-Dec-24
+```
+
+   Today I learnt: Using command line to tweet using tweepy library: code in repo (tweet-insta)[https://github.com/geeksambhu/tweet-insta] in 
+`tweet.py` file 
+

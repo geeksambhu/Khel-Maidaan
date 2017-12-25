@@ -67,6 +67,13 @@ Day: 10
    Date: 2017-Dec-24
 ```
 
-   Today I learnt: Using command line to tweet using tweepy library: code in repo (tweet-insta)[https://github.com/geeksambhu/tweet-insta] in 
+   Today I learnt: Using command line to tweet using tweepy library: code in repo [tweet-insta][https://github.com/geeksambhu/tweet-insta] in
 `tweet.py` file 
 
+Day: 11
+
+```
+   Date: 2017-Dec-25
+   Today I learnt: Learnt about method resolution order in python in multiple inheritance
+
+```

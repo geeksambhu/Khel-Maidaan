@@ -1,3 +1,6 @@
+##
+# Method resolution according to DLR algorithm Depth first, Left , then right
+# #
 class A:
     def whereiam(self):
         print("I am in A")

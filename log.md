@@ -77,3 +77,19 @@ Day: 11
    Today I learnt: Learnt about method resolution order in python in multiple inheritance
 
 ```
+
+Day: 12
+
+```
+   Date: 2017-Dec-26
+   Today I learnt: wrote code for Method Resolution Order
+
+```
+
+Day: 13
+
+```
+   Date: 2017-Dec-27
+   Today I learnt: Download feature for photos works now
+
+```

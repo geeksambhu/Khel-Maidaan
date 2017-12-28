@@ -93,3 +93,15 @@ Day: 13
    Today I learnt: Download feature for photos works now
 
 ```
+
+Day: 14
+
+```
+   Date: 2017-Dec-28
+   Today I learnt: worked on jinja template improvement in tweet-insta
+
+```
+[tweet-insta][https://github.com/geeksambhu/tweet-insta]
+
+
+

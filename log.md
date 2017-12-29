@@ -103,5 +103,13 @@ Day: 14
 ```
 [tweet-insta][https://github.com/geeksambhu/tweet-insta]
 
+Day 15
+```
+   Date: 2017-Dec-29
+   Today I learnt: Learnt about os modul and absolute and relative pth
+
+
+```
+
 
 

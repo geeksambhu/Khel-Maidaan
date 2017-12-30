@@ -106,10 +106,13 @@ Day: 14
 Day 15
 ```
    Date: 2017-Dec-29
-   Today I learnt: Learnt about os modul and absolute and relative pth
+   Today I learnt: Learnt about os module and absolute and relative path
 
 
 ```
 
-
-
+Day 16
+```
+   Date: 2017-Dec-30
+   Today I learnt: worked on image crawling from instagram. repo:tweet-insta/imagecrawler
+```

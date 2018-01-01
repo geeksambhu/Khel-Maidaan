@@ -116,3 +116,15 @@ Day 16
    Date: 2017-Dec-30
    Today I learnt: worked on image crawling from instagram. repo:tweet-insta/imagecrawler
 ```
+
+Day 17
+```
+   Date: 2017-Dec-31
+   Today I learnt: About gunicorn and wsgi in pythoj
+```
+
+Day 18
+```
+   Date: 2018-Jan-1
+   Today I learnt: about more indepth knowledge in built in functions in python https://docs.python.org/2.7/library/functions.html#built-in-funcs
+```
